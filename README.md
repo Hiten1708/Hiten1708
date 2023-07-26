@@ -1,10 +1,7 @@
 ![My Banner](images/abc2.png)
 
 <h1 align = "center">
-         <img src="gifs/wave.gif" 
-         alt="Waving hand animated gif"
-         height="40"
-         width="40"/>
+         <iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="40" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
          HELLO !
          <img src="gifs/wave.gif" 
          alt="Waving hand animated gif"
