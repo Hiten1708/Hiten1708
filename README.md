@@ -1,8 +1,8 @@
 ![My Banner](/images/abc2.png)
 
-<img src="/gifs/csguy.gif" width="100" height="100" />
+<img src="/gifs/csguy.gif" width="50" height="50" />
 <h1> HELLO ! </h1>
-<img src="/gifs/csnotguy.gif" width="100" height="100" />
+<img src="/gifs/csnotguy.gif" width="50" height="50" />
 
 
 <br><br>
