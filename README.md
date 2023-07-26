@@ -2,7 +2,7 @@
 
 <h1 align = "center">
          <img src="/gifs/csguy.gif" width="200" height="200" />
-         HELLO !
+         <img src="/gifs/hello.gif" width="200" height="200" />
          <img src="/gifs/csnotguy.gif" width="200" height="200" />
 </h1>
 
@@ -26,7 +26,7 @@ try:
         learn()
 ```
 
-![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=rogue&hide_border=true&area=true)
+[![My GH Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiten1708&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br><br>
