@@ -1,11 +1,12 @@
+# My GH ReadMe
+
 ![My Banner](/images/abc2.png)
 
-<h1 align = "center">
+<div align = "center">
          <img src="/gifs/csguy.gif" width="200" height="200" />
          <img src="/gifs/hello.gif" width="200" height="200" />
          <img src="/gifs/csnotguy.gif" width="200" height="200" />
-</h1>
-
+</div>
 
 <br><br>
 
@@ -25,8 +26,9 @@
 
 [![My GH Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiten1708&bg_color=0d1116&color=ec5f5f&line=2ee59f&point=0d1116&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
 
-<br><br>
+<br>
 
 <h2 align = "center"> TECHNOLOGIES & TOOLS </h2>
 
@@ -50,7 +52,7 @@
 <br><br>
 
  <h2 align = "center"> I'D LOVE TO HEAR FROM YOU! </h2>
-         
+
 <div align = "center">
   
 <!--   [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/irsayvid)  -->
@@ -58,12 +60,10 @@
   [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hitenkumar-patel/)
   [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/HarshP1409)
   [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UC1M5FwzvNJbHZ4Lgk8zchYg)
-  [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/htn.ptl/) 
+  [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/htn.ptl/)
 </div>
-         
- 
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Hiten1708/count.svg" />
 </p>
