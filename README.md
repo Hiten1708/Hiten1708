@@ -1,10 +1,8 @@
 ![My Banner](/images/abc2.png)
 
-<h1 align = "center">
-         <img src="/gifs/csguy.gif" width="200" height="200" />
-         <h1> HELLO ! </h1>
-         <img src="/gifs/csnotguy.gif" width="200" height="200" />
-</h1>
+<img src="/gifs/csguy.gif" width="200" height="200" />
+<h1> HELLO ! </h1>
+<img src="/gifs/csnotguy.gif" width="200" height="200" />
 
 
 <br><br>
