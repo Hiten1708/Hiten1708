@@ -1,9 +1,9 @@
-![My Banner](images/abc2.png)
+![My Banner](/images/abc2.png)
 
 <h1 align = "center">
-         <img src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="40" height="40" />
+         <img src="/gifs/csguy.gif" width="40" height="40" />
          HELLO !
-         <img src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="40" height="40" />
+         <img src="/gifs/csnotguy.gif" width="40" height="40" />
 </h1>
 
 
