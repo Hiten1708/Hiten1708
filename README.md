@@ -2,7 +2,7 @@
 
 <h1 align = "center">
          <img src="/gifs/csguy.gif" width="100" height="100" />
-         <h1> HELLO ! </h1>
+         HELLO !
          <img src="/gifs/csnotguy.gif" width="100" height="100" />
 </h1>
 
