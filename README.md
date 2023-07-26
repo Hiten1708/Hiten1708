@@ -25,7 +25,7 @@ try:
     while True:
         learn()
 ```
-         
+
 ![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=rogue&hide_border=true&area=true)
 
 
