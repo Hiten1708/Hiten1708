@@ -27,17 +27,9 @@
 ```python
 
 try:
+
     while True:
-        learnSomethingNew()
-    
-        if Bored():
-            learn(SoftwareDevelopment, MachineLearning)
-       
-except Exception as LifeProblems:
-    if LifeProblems.whatHappened == Life.tooStressed:
-        relax(sketchPortraits)
-    else:
-        watch(anime)
+        learn()
 ```
          
 ![](https://activity-graph.herokuapp.com/graph?username=Hiten1708&theme=rogue&hide_border=true&area=true)
