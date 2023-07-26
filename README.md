@@ -19,10 +19,8 @@
 ```
 
 ```python
-
     while True:
         learn()
-        
 ```
 
 [![My GH Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hiten1708&bg_color=0d1116&color=ec5f5f&line=2ee59f&point=0d1116&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -51,7 +49,7 @@
 
 <br><br>
 
- <h2 align = "center"> I'd love to hear from you! </h2>
+ <h2 align = "center"> I'D LOVE TO HEAR FROM YOU! </h2>
          
 <div align = "center">
   
