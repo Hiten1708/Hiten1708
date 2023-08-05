@@ -13,9 +13,9 @@
 ```json
 {
   "name": "Hitenkumar Patel",
-  "program": "BSc in Physics",
+  "program": "Honours BSc in Physics with co-op",
   "school": "Brock University",
-  "year": "3",
+  "year": "4",
 }
 ```
 
