@@ -1,4 +1,3 @@
-# My GH ReadMe
 
 ![My Banner](/images/abc2.png)
 
